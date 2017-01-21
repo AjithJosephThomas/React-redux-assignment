@@ -1,7 +1,7 @@
 {
   "name": "assignment",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
@@ -19,7 +19,6 @@
     "axios": "^0.12.0",
     "babel-preset-stage-1": "^6.1.18",
     "lodash": "^4.0.0",
-    "nock": "^8.0.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.0.0",
