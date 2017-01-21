@@ -9,6 +9,9 @@ Functionality:
 3) The result does not change if the zipcode is not valid.
 4) Application displays previous valid searches in 'previous searches' section.
 
-
+Build and Deployment:
+npm install
+npm start
+Launch application from http://localhost:8080
 
 ![image](https://github.com/AjithJosephThomas/React-redux-assignment/blob/master/screenshot.jpg)
